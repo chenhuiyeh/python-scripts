@@ -1,4 +1,6 @@
 # python-scripts
 personal Python scripting practice
-a curated list of python scripts that I wrote for practising Python scripting
+a curated list of python scripts that I wrote for practising Python scripting \n
+
 1. 
+
